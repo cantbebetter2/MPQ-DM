@@ -6,7 +6,7 @@
 
 This project is the official implementation of our "MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion Models".
 
-![framework](imgs\framework.png)
+![framework](imgs/framework.png)
 
 ## Getting Started
 
